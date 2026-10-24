@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "github": "rftdatasolutions-maker"
+  },
+  "description": "a landing page",
+  "records": {
+    "CNAME": "kronteq.netlify.app"
+  }
+}
